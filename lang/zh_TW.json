@@ -1,0 +1,17 @@
+{
+    "Built :package with ❤️": "用❤️建構的套件 :package",
+    "Dashboard": "控制面板",
+    "Failures": "失敗",
+    "From": "從",
+    "Last 24h": "過去 24 小時",
+    "Last 30 days": "過去 30 天",
+    "Last 7 days": "過去 7 天",
+    "No 5xx requests in the selected period.": "挑選時段內沒有 5xx 請求。",
+    "Period": "時段",
+    "Requests over time": "隨時間推移的請求",
+    "to now": "到現在",
+    "Top failing URLs (5xx)": "失敗網址排名（5xx）",
+    "Total": "總計",
+    "Track and log outgoing HTTP requests": "追蹤和記錄連出的 HTTP 請求",
+    "URL": "網址"
+}

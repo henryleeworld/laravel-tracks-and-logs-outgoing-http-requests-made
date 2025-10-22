@@ -21,11 +21,12 @@ $ php artisan key:generate
 $ php artisan migrate
 ```
 - 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
-- 你可以經由 `/github/spy` 來進行連出的 HTTP 請求記錄。
+- 你可以經由 `/github/{使用者名稱}` 來進行使用者存放區列出。
+- 你可以經由 `/dog` 來進行所有狗集合中的單張隨機圖片列出。
 - 你可以經由 `/spy` 來進行連出的 HTTP 請求控制面板瀏覽。
 
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/fqEKjJn.png)
+![](https://i.imgur.com/gq8YIID.png)
 > 使用控制面板來了解時段內連出的 HTTP 請求成功率

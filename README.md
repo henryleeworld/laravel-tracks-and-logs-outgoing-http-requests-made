@@ -1,4 +1,4 @@
-# Laravel 12 追蹤和記錄連出的 HTTP 請求
+# Laravel 13 追蹤和記錄連出的 HTTP 請求
 
 引入 farayaz 的 laravel-spy 套件來擴增追蹤和記錄連出的 HTTP 請求，可用於偵錯、監控和稽核外部 API 呼叫或 HTTP 請求。
 
@@ -28,5 +28,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/gq8YIID.png)
+![](https://i.imgur.com/iybb41A.png)
 > 使用控制面板來了解時段內連出的 HTTP 請求成功率
